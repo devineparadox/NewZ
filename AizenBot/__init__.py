@@ -1,6 +1,5 @@
 from AizenBot.core.bot import Aizen
 from AizenBot.core.dir import dirr
-from AizenBot.core.git import git
 from AizenBot.core.userbot import Userbot
 from AizenBot.misc import dbb, heroku
 
@@ -8,7 +7,6 @@ from SafoneAPI import SafoneAPI
 from .logging import LOGGER
 
 dirr()
-git()
 dbb()
 heroku()
 
