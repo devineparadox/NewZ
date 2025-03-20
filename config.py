@@ -122,18 +122,18 @@ confirmer = {}
 # ------------------------------------
 # ------------------------------------
 
-START_IMG_URL = ""
-PING_IMG_URL = ""
-PLAYLIST_IMG_URL = ""
-STATS_IMG_URL = ""
-TELEGRAM_AUDIO_URL = ""
-TELEGRAM_VIDEO_URL = ""
-STREAM_IMG_URL = ""
-SOUNCLOUD_IMG_URL = ""
-YOUTUBE_IMG_URL = ""
-SPOTIFY_ARTIST_IMG_URL = ""
-SPOTIFY_ALBUM_IMG_URL = ""
-SPOTIFY_PLAYLIST_IMG_URL = ""
+START_IMG_URL = "https://envs.sh/QdR.jpg"
+PING_IMG_URL = "https://envs.sh/QdR.jpg"
+PLAYLIST_IMG_URL = "https://envs.sh/QdR.jpg"
+STATS_IMG_URL = "https://envs.sh/QdR.jpg"
+TELEGRAM_AUDIO_URL = "https://envs.sh/QdR.jpg"
+TELEGRAM_VIDEO_URL = "https://envs.sh/QdR.jpg"
+STREAM_IMG_URL = "https://envs.sh/QdR.jpg"
+SOUNCLOUD_IMG_URL = "https://envs.sh/QdR.jpg"
+YOUTUBE_IMG_URL = "https://envs.sh/QdR.jpg"
+SPOTIFY_ARTIST_IMG_URL = "https://envs.sh/QdR.jpg"
+SPOTIFY_ALBUM_IMG_URL = "https://envs.sh/QdR.jpg"
+SPOTIFY_PLAYLIST_IMG_URL = "https://envs.sh/QdR.jpg"
 
 def time_to_seconds(time):
     stringt = str(time)
